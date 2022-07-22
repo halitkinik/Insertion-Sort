@@ -24,3 +24,4 @@ Dizimiz küçükten büyüğe sıraladıktan sonra 18 sayısı ortada yer almakt
 [3,5,7|,8,2,9,4,15,6]
 [3,5,7,8|,2,9,4,15,6]
 
+www.patika.dev
